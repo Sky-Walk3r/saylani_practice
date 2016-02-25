@@ -1,4 +1,4 @@
 # My First New File
 Don't forget `git status` command.
-- [ ] Is This useful??
+- [x] Is This useful??
 - [ ] Isn't this useful??
